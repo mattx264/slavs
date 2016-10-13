@@ -1,0 +1,15 @@
+Drag and drop -> drag from 1 city 1 to city 2 
+transport food
+
+
+village -> 
+    from village you can upgrade to city or fort
+City ->
+
+Fort->castle
+
+
+speed of character - v = s / t
+
+Ideas:
+-if knight have to be pay annoul villigae can be transform to fed
